@@ -1,5 +1,7 @@
 # Car-Price-Predictoion
 
+This repository contains code and resources to perform car price prediction using Python and Machine Learning. The goal of this project is to build a model that can predict the price of a car based on various features such as make, model, year, mileage, and other relevant attributes.
+
 1. Load the car price dataset
 2. Split the dataset into features (X) and target (y)
 3. Split the data into training and testing sets
